@@ -32,10 +32,6 @@ Age — quantitative — Day (1~365) — Input Variable
 
 Concrete compressive strength — quantitative — MPa(megapascals) — Output Variable
 
-Dataset
-Easy Download:
-compresive_strength_concrete-2.csvDownload
-
 
 
 In this solution, we will be using Jupyter notebook to prepare our solution
